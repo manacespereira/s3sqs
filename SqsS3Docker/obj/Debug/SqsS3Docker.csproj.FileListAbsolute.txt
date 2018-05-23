@@ -1,0 +1,10 @@
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\bin\Debug\SqsS3Docker.exe.config
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\bin\Debug\SqsS3Docker.exe
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\bin\Debug\SqsS3Docker.pdb
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\bin\Debug\AWSSDK.dll
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\bin\Debug\AWSSDK.pdb
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\obj\Debug\SqsS3Docker.csprojAssemblyReference.cache
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\obj\Debug\SqsS3Docker.csproj.CoreCompileInputs.cache
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\obj\Debug\SqsS3Docker.csproj.CopyComplete
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\obj\Debug\SqsS3Docker.exe
+C:\dev\SqsS3Docker\SqsS3Docker\SqsS3Docker\obj\Debug\SqsS3Docker.pdb
